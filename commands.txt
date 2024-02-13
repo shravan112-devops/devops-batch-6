@@ -6,3 +6,4 @@ git add
 git command
 git restore
 git status
+git log
