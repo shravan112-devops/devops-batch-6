@@ -7,3 +7,5 @@ git command
 git restore
 git status
 git log
+git config --global user.name ""
+git config --global user.email ""
